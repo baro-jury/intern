@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Solid
+  - Goal
+  - Button
+  - Body
+  - Checkpoint
+  - Hazard
+  - Barrier
+  - Line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bike
+  - Line
+  - Goal
+  - Checkpoint
+  - NoDraw
+  - BikePart
+  - Enemy
+  - NoDrawPassable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1104323805
+    locked: 0
+  - name: Object
+    uniqueID: 2006341987
+    locked: 0
+  - name: Player
+    uniqueID: 2841675095
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3646565019
+    locked: 0
